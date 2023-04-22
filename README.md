@@ -1,6 +1,6 @@
 # Style guide
 
-[中文](README-Chinese.md),[繁体中文](README-Chinese.md),[日本語](README-Japanese.md),[Français](#),[Русский язык](#),[Deutsch](#),[Español](#),[Português](#),[بالعربية](#).
+[中文](README-Chinese.md), [繁体中文](README-Chinese.md), [日本語](README-Japanese.md), [Français](#), [Русский язык](#), [Deutsch](#), [Español](#), [Português](#), [بالعربية](#).
 
 **We have established a basic writing format for ICCookbook. Please ensure that your articles adhere to the following format when writing.**
 
