@@ -4,9 +4,13 @@
 
 **We have established a basic writing format for ICCookbook. Please ensure that your articles adhere to the following format when writing.**
 
+<br>
+
 ## 1. Newline
 
 The previous line of the title must be a blank line, that is, after the previous part of the content is written, there must be a blank line before writing the title.
+
+<br>
 
 ## 2. Space
 
@@ -19,6 +23,8 @@ Grocery out today cost $5000.
 **mistake:**
 
 Went out to buy groceries today and spent$5,000.
+
+<br>
 
 ### 2.2 Spaces need to be added between numbers and units
 
@@ -44,12 +50,16 @@ Today is a high temperature of 233 ° .
 
 The new MacBook Pro has a 15 % CPU performance boost.
 
+<br>
+
 ### 2.3 Add spaces between numbers and symbols in the code
 ```c
 for(i = 0; i <= 9; i++) {
      a[i] = i;
 }
 ```
+
+<br>
 
 ## 3. Punctuation
 
@@ -70,6 +80,8 @@ The German team actually beat the Brazilian team! ! ! ! ! ! ! !
 She actually said "meow" to you? ? ! !
 
 She actually said "meow" to you? ! ? ! ? ? ! !
+
+<br>
 
 ## 4. Noun
 
@@ -107,6 +119,8 @@ Our customers are gｲんĤЦ8, ｷouЯƧquﾑгє, ๓เςг๏ร๏Ŧt ς๏
 
 Note: When the webpage needs to match the overall visual style and all uppercase/lowercase appears, please use the standard capitalization specification in HTML to write; and use text-transform: uppercase;/text-transform: lowercase; to express the form to define.
 
+<br>
+
 ### 4.2 Do not use inappropriate abbreviations
 
 **correct:**
@@ -116,3 +130,5 @@ We need a front-end developer who is familiar with TypeScript, HTML5, and unders
 **mistake:**
 
 We need a FED who is familiar with Ts, h5, and understands at least one framework (such as RJS, nextjs).
+
+<br>
