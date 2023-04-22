@@ -1,7 +1,4 @@
-# NSL style guide
+# Style guide
 
-[Motoko](motoko.md) style guide.
+**We have established a basic writing format for ICCookbook. Please ensure that your articles adhere to the following format when writing.**
 
-[Rust](rust.md) style guide.
-
-[JavaScript](javascript.md) style guide.
